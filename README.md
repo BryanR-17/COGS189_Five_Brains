@@ -7,7 +7,6 @@ This repository contains the code and analysis for our **COGS 189 project** on h
 - **`data/`**: Instructions or links for accessing the Aalborg Music and Speech EEG dataset (raw data not tracked in Git).
 - **`reports/`**: Generated plots and result summaries.
 - **`docs/`**: Project proposal, writeups, and notes.
-- **`env/`**: Extra environment or config files.
 
 ### **Team Members**
 
