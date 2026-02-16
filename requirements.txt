@@ -1,0 +1,7 @@
+mne
+numpy
+scipy
+matplotlib
+pandas
+jupyter
+yasa
