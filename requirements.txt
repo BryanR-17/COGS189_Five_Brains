@@ -5,3 +5,6 @@ matplotlib
 pandas
 jupyter
 yasa
+seaborn 
+statsmodels
+scikit-learn
