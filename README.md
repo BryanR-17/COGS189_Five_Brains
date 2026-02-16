@@ -9,9 +9,27 @@ This repository contains the code and analysis for our **COGS 189 project** on h
 - **`docs/`**: Project proposal, writeups, and notes.
 - **`env/`**: Extra environment or config files.
 
+### **Team Members**
+
+| Name             | PID       | Email              |
+|------------------|-----------|--------------------|
+| **Sabine Loaiza**   | A######## | sabine@ucsd.edu     |
+| **Avalon Andresen** | A######## | avalon@ucsd.edu     |
+| **Bryan Ramirez**   | A######## | your_email@ucsd.edu |
+| **Kayla Li**        | A######## | kayla@ucsd.edu      |
+| **JiJi Choi**       | A######## | jiji@ucsd.edu       |
+
 ### **Getting Started**
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/BryanR-17/COGS189_Five_Brains.git
    cd COGS189_Five_Brains
+
+### **Contributing**
+
+1. Make changes and push to your branch:
+   ```bash
+   git add .
+   git commit -m "Your commit message"
+   git push origin <branch-name>
