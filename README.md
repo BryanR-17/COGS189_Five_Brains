@@ -32,3 +32,8 @@ This repository contains the code and analysis for our **COGS 189 project** on h
    git add .
    git commit -m "Your commit message"
    git push origin <branch-name>
+
+### **Dataset** 
+We use the public **“EEG data of continuous listening of music and speech”** dataset from Aalborg University:
+   ```bash
+   https://vbn.aau.dk/en/datasets/eeg-data-of-continuous-listening-of-music-and-speech/
