@@ -12,7 +12,7 @@ This repository contains the code and analysis for our **COGS 189 project** on h
 
 | Name             | PID       | Email              |
 |------------------|-----------|--------------------|
-| **Sabine Loaiza**   | A######## | sloaizachable@ucsd.edu     |
+| **Sabine Loaiza**   | A17834935 | sloaizachable@ucsd.edu     |
 | **Avalon Andresen** | A######## | aandresen@ucsd.edu     |
 | **Bryan Ramirez**   | A17302269 | b9ramirez@ucsd.edu |
 | **Kayla Li**        | A18630941 | chl324@ucsd.edu      |
