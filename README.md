@@ -1,7 +1,9 @@
 # **COGS 189 - Five Brains (Linguistic Interference EEG Project)**
+
 This repository contains the code and analysis for our **COGS 189 project** on how **background music with understood lyrics vs instrumental vs non-understood lyrics** affects cognitive load, measured via **EEG Alpha and Beta band power**.
 
 ### **Project Structure**
+
 - **`notebooks/`**: Exploratory analysis and figures.
 - **`src/`**: Scripts for preprocessing, bandpower computation, and statistics.
 - **`data/`**: Instructions or links for accessing the Aalborg Music and Speech EEG dataset (raw data not tracked in Git).
@@ -10,13 +12,12 @@ This repository contains the code and analysis for our **COGS 189 project** on h
 
 ### **Team Members**
 
-| Name             | PID       | Email              |
-|------------------|-----------|--------------------|
-| **Sabine Loaiza**   | A17834935 | sloaizachable@ucsd.edu     |
-| **Avalon Andresen** | A######## | aandresen@ucsd.edu     |
-| **Bryan Ramirez**   | A17302269 | b9ramirez@ucsd.edu |
-| **Kayla Li**        | A18630941 | chl324@ucsd.edu      |
-| **JiJi Choi**       | A######## | jic169@ucsd.edu       |
+| Name              | PID       | Email                  |
+| ----------------- | --------- | ---------------------- |
+| **Sabine Loaiza** | A17834935 | sloaizachable@ucsd.edu |
+| **Bryan Ramirez** | A17302269 | b9ramirez@ucsd.edu     |
+| **Kayla Li**      | A18630941 | chl324@ucsd.edu        |
+| **JiJi Choi**     | A######## | jic169@ucsd.edu        |
 
 ### **Getting Started**
 
@@ -24,6 +25,7 @@ This repository contains the code and analysis for our **COGS 189 project** on h
    ```bash
    git clone https://github.com/BryanR-17/COGS189_Five_Brains.git
    cd COGS189_Five_Brains
+   ```
 
 ### **Contributing**
 
@@ -32,8 +34,12 @@ This repository contains the code and analysis for our **COGS 189 project** on h
    git add .
    git commit -m "Your commit message"
    git push origin <branch-name>
+   ```
 
-### **Dataset** 
+### **Dataset**
+
 We use the public **“EEG data of continuous listening of music and speech”** dataset from Aalborg University:
-   ```bash
-   https://vbn.aau.dk/en/datasets/eeg-data-of-continuous-listening-of-music-and-speech/
+
+```bash
+https://vbn.aau.dk/en/datasets/eeg-data-of-continuous-listening-of-music-and-speech/
+```
