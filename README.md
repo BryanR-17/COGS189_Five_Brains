@@ -2,7 +2,8 @@
 
 This repository contains the analysis pipeline for ouor **COGS 189 final project**, which investigates how different types of background audio influence cognitive processing. Using EEG recordings, we analyze how **music with understood lyrics, non-understood lyrics, instrumental music, and speech** affect cognitive load during listening task.
 
-Cogntive engagement is estimated using **frequency-domain EEG featrues**, specifically **Alpha (8-12 Hz)** and **Beta (13-30 Hz)** band power.
+Cogntive engagement is estimated using **frequency-domain EEG features**, specifically **Alpha (8-12 Hz)** and **Beta (13-30 Hz)** band power.
+
 ---
 
 # Project Structure
