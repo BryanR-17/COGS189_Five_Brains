@@ -1,8 +1,32 @@
 # **COGS 189 - Five Brains (Linguistic Interference EEG Project)**
 
-This repository contains the analysis pipeline for ouor **COGS 189 final project**, which investigates how different types of background audio influence cognitive processing. Using EEG recordings, we analyze how **music with understood lyrics, non-understood lyrics, instrumental music, and speech** affect cognitive load during listening task.
+This repository contains the analysis pipeline for our **COGS 189 final project**, which investigates how different types of background audio influence cognitive processing. Using EEG recordings, we analyze how **music with understood lyrics, non-understood lyrics, instrumental music, and speech** affect cognitive load during listening task.
 
 Cogntive engagement is estimated using **frequency-domain EEG features**, specifically **Alpha (8-12 Hz)** and **Beta (13-30 Hz)** band power.
+
+---
+
+## Analysis Pipeline
+
+The project follows this workflow:
+
+1. **Data Loading**
+   - Locate and verify preprocessed EEG subject files.
+
+2. **Dataset Validation**
+   - Confirm trial counts, sampling rates, and EEG dimensions.
+
+3. **Experimental Design Verification**
+   - Quantitatively check whether the experiment follows a blocked or interleaved structure.
+
+4. **Feature Extraction**
+   - Compute Alpha and Beta band power from EEG signals.
+
+5. **Engagement Metric**
+   - Calculate an **Engagement Index (Beta / Alpha)**.
+
+6. **Statistical Analysis**
+   - Compare engagement levels across listening conditions.
 
 ---
 
