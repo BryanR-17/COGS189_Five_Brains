@@ -1,14 +1,26 @@
 # **COGS 189 - Five Brains (Linguistic Interference EEG Project)**
 
-This repository contains the code and analysis for our **COGS 189 project** on how **background music with understood lyrics vs instrumental vs non-understood lyrics** affects cognitive load, measured via **EEG Alpha and Beta band power**.
+This repository contains the analysis pipeline for ouor **COGS 189 final project**, which investigates how different types of background audio influence cognitive processing. Using EEG recordings, we analyze how **music with understood lyrics, non-understood lyrics, instrumental music, and speech** affect cognitive load during listening task.
 
-### **Project Structure**
+Cogntive engagement is estimated using **frequency-domain EEG featrues**, specifically **Alpha (8-12 Hz)** and **Beta (13-30 Hz)** band power.
+---
 
-- **`notebooks/`**: Exploratory analysis and figures.
-- **`src/`**: Scripts for preprocessing, bandpower computation, and statistics.
-- **`data/`**: Instructions or links for accessing the Aalborg Music and Speech EEG dataset (raw data not tracked in Git).
-- **`reports/`**: Generated plots and result summaries.
-- **`docs/`**: Project proposal, writeups, and notes.
+# Project Structure
+
+```
+COGS189_Five_Brains/
+│
+├── notebooks/
+│   ├── 01_setup_validation.ipynb
+│   └── 02_feature_stats_ml_visual.ipynb
+│
+├── Preprocessed/                  # Preprocessed EEG subject files (.mat)
+├── requirements.txt               # Python dependencies
+├── README.md                      # Project overview and instructions
+└── .gitignore
+```
+
+---
 
 ### **Team Members**
 
