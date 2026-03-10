@@ -55,7 +55,7 @@ COGS189_Five_Brains/
 | **Avalon Andresen** | A17794154 | aandresen@ucsd.edu     |
 | **Bryan Ramirez**   | A17302269 | b9ramirez@ucsd.edu     |
 | **Kayla Li**        | A18630941 | chl324@ucsd.edu        |
-| **JiJi Choi**       | A######## | jic169@ucsd.edu        |
+| **JiJi Choi**       | A18554073 | jic169@ucsd.edu        |
 
 ### **Getting Started**
 
